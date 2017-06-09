@@ -1,0 +1,96 @@
+/*main{
+  justify-content: center;
+  align-items: center;
+}*/
+
+span{
+  width: 50px;
+  height: 50px;
+  color: black;
+}
+#gg{
+  height:50px;
+  width:100px;
+}
+body{
+  display: flex;
+  justify-content: center;
+  height:100%;
+  width: 100%;
+}
+span{
+  position: absolute;
+  color: grey;
+  padding-top:10px;
+  padding-left: 8px;
+}
+main{
+  width: 394px;
+  border-style: groove;
+  margin-top: 10%;
+}
+h1{
+  background-color: #1e86cc;
+  color: white;
+  padding: 15px 10px 15px 20px;
+  width: 360px;
+  margin-top: 0;
+  border-top: 2px solid  #1e86cc;
+  border-right: 3px solid  #1e86cc;
+}
+
+input{
+  width: 75%;
+  margin-right:20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding:5px 0 5px 30px;
+}
+select{
+  width: 82%;
+  margin-right:20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding:5px 0 5px 5px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  height: 30px;
+  background-color: white;
+
+}
+select{
+  font-size: .7em;
+}
+
+
+#user-comment{
+  padding-bottom: 30px;
+}
+
+
+
+#submitForm{
+  width:80px;
+  background-color: #3687c9;
+  color:white;
+  border-style: none;
+  padding:10px;
+  margin-left: 15px;
+}
+#signUp{
+  padding-bottom: 25px;
+  padding-left: 20px;
+  width:429px;
+}
+fieldset{
+  padding: 0;
+  width: 394px;
+  border-style: none;
+  margin-left: 0;
+}
+#inputDiv{
+  background-color: #b6d4ed;
+  padding: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
